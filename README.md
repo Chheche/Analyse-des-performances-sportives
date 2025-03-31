@@ -27,4 +27,5 @@ Les participants avec un niveau sportif élevé (29,45% de l'échantillon) prati
 L'analyse par pays révèle des différences culturelles ou d'infrastructures sportives, avec certains pays affichant des performances moyennes en tractions plus élevées que d'autres pour les deux sexes.
 
 
+
 Rafael Barreto Pannetier - Étudiant ingénieur en informatique.
