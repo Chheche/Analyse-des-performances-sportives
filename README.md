@@ -15,17 +15,15 @@ Les données ont ensuite été nettoyées, analysées à l'aide de Python et de 
 
 ## Conclusion et Insights Clés
 
-Performances par Sexe
+### Performances par Sexe
 Les hommes réalisent en moyenne un nombre significativement plus élevé de tractions que les femmes, reflétant des différences physiologiques ou d'entraînement.
-
 La moyenne de course montre une dispersion importante (de 10 à 50 minutes), suggérant des niveaux de condition physique très variés parmi les participants.
 
-Impact de l'Entraînement
+### Impact de l'Entraînement
 Le temps consacré au sport par semaine influence clairement les performances en course, avec une corrélation positive entre heures d'entraînement et endurance.
-
 Les participants avec un niveau sportif élevé (29,45% de l'échantillon) pratiquent en moyenne près de 4 heures de sport par semaine, contre environ 1 heure pour les autres, soulignant l'importance de la régularité.
 
-Variations Géographiques
+### Variations Géographiques
 L'analyse par pays révèle des différences culturelles ou d'infrastructures sportives, avec certains pays affichant des performances moyennes en tractions plus élevées que d'autres pour les deux sexes.
 
 
